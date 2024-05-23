@@ -1,5 +1,16 @@
 3 tazas de agua
 canela
 clavo de olor
+<<<<<<< HEAD
 azucar
 hervir
+=======
+
+
+
+
+pisca sal
+chocolate
+
+
+>>>>>>> rama1
